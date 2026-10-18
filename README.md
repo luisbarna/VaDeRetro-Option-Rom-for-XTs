@@ -1,5 +1,5 @@
 [readme.md](https://github.com/user-attachments/files/33594455/readme.md)
-# ROM Test for ISA_EMS-4MB
+# Option ROM Test for ISA ROM cards
 
 This ROM was developed to test the **ISA_EMS-4MB** card from **hkzlab**, specifically the part responsible for running the Option ROM.
 
