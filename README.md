@@ -1,9 +1,10 @@
 [readme.md](https://github.com/user-attachments/files/33594455/readme.md)
-# Option ROM Test for ISA ROM cards
+# Option ROM Test for XT or AT compatible PCs
 
-This ROM was developed to test the **ISA_EMS-4MB** card from **hkzlab**, specifically the part responsible for running the Option ROM.
+This ROM has been developed to test any card with a socket for inserting an Option ROM or any PCB with a ROM socket
 
 ## Features
 
 - **Memory Location Detection:** Displays the current memory address where the Option ROM is running, based on the jumper settings
-- **Broad Compatibility:** Works on any expansion card capable of hosting and running Option ROMs (e.g., compatible network cards, storage controllers).
+- **Board Compatibility:** Works on any expansion card capable of hosting and running Option ROMs (e.g., compatible network cards, storage controllers).
+- **It should be compatible with any XT or AT PC
